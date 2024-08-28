@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
     📞 +91 8217226449
+  
     📧 revanthkumarkurra3@gmail.com
+  
     🖇️ linkedin : https://www.linkedin.com/in/revanthkumarkurra3
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: 
