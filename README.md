@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RevanthKumarKurra
-- 👀 I’m interested in Machine Learning, Deep Learning AI
+- 👀 I’m interested in Machine Learning, Deep Learning,AI
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
