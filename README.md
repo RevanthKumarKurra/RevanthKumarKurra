@@ -1,17 +1,10 @@
-- 👋 Hi, I’m @RevanthKumarKurra
-- 👀 I’m interested in Machine Learning, Deep Learning,AI
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-    📞 +91 8217226449
-  
-    📧 revanthkumarkurra3@gmail.com
-  
-    🖇️ linkedin : https://www.linkedin.com/in/revanthkumarkurra3
-- 😄 Pronouns: Mr
-- ⚡ Fun fact: 
+# 💫 About Me:
+👋 Hi, I'm Revanth Kumar<br><br>I'm an AI Engineer passionate about building intelligent systems that can understand, translate, and generate human language. My interests lie in Speech-to-Text, Text-to-Speech, multilingual Speech-to-Speech, LLMs, and production AI. I enjoy transforming research into scalable, real-world applications that solve meaningful problems.<br><br>When I'm not training models or experimenting with Transformers, you'll probably find me exploring the latest AI research, optimizing deep learning pipelines, or building projects that push the boundaries of multilingual AI.
 
-<!---
-RevanthKumarKurra/RevanthKumarKurra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/revanthkumarkurra3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revanthkumarkurra3@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
